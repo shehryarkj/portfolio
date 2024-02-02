@@ -28,7 +28,7 @@ return(
  <hr />
     <div>
 
-        <h2 id="h2">My Expeirence</h2><hr />
+        <h2 className="expo" id="h2">My Expeirence</h2><hr />
         <div className="exp">
             <div><span className="spn1">
             <FontAwesomeIcon className="i" icon={faClone} /></span><br /> <h5>Product Design</h5><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, harum suscipit hic doloremque quasi optio minima.</p></div>
@@ -41,7 +41,7 @@ return(
             <div><span className="spn1">
             <FontAwesomeIcon className="i" icon={faMobileScreenButton} /><br /></span><h5>App Design</h5><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, harum suscipit hic doloremque quasi optio minima.</p></div>
             <div><span> 
-            <FontAwesomeIcon className="i" icon={faImage} /></span><br /><h5>Motion & Animation</h5><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, harum suscipit hic doloremque quasi optio minima.</p></div>
+            <FontAwesomeIcon className="i1" icon={faImage} /></span><br /><h5>Motion & Animation</h5><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, harum suscipit hic doloremque quasi optio minima.</p></div>
         </div>
     </div>
     

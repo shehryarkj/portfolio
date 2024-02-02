@@ -49,7 +49,8 @@ function App() {
     <Projects/>
     <hr />
     <br /><br />
-    <h2 id='h2'>My Skills</h2>
+    
+    <h2 className='ski' id='h2'>My Skills</h2>
     <p id='p'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br />
        incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
       <br /><br /><div className="skil">
